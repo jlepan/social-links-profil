@@ -24,6 +24,10 @@ Il consiste à créer une page de profil où l'on partage nos liens sur les rés
 
 ![Aperçu de ma version lorsque l'on passe sur les liens](https://github.com/jlepan/social-links-profil/blob/main/aper%C3%A7u-projet/aper%C3%A7u-active-states.png)
 
+## Projet en ligne
+
+[Voir le projet en ligne](https://jlepan.github.io/social-links-profil/)
+
 ## Installation
 1. Cloner ce repository :  
    ```bash
