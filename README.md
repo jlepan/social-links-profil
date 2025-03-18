@@ -1,4 +1,4 @@
-# **social-links-profil**
+# **social-links-profile**
 
 Ce projet est un exercice réalisé dans le cadre des défis de [Frontend Mentor](https://www.frontendmentor.io/). 
 Il consiste à créer une page de profil où l'on partage nos liens sur les réseaux sociaux en respectant une maquette donnée.
