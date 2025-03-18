@@ -10,29 +10,28 @@ Il consiste à créer une page de profil où l'on partage nos liens sur les rés
 
 ## Modèles fournis
 
-[Aperçu du profil version desktop](https://github.com/jlepan/social-links-profil/blob/main/design/desktop-design.jpg)
+[Aperçu du profil version desktop](https://github.com/jlepan/social-links-profile/blob/main/design/desktop-design.jpg)
 
-[Aperçu du profil version mobile](https://github.com/jlepan/social-links-profil/blob/main/design/mobile-design.jpg)
+[Aperçu du profil version mobile](https://github.com/jlepan/social-links-profile/blob/main/design/mobile-design.jpg)
 
-[Aperçu du profil lorsque l'on passe sur les liens](https://github.com/jlepan/social-links-profil/blob/main/design/active-states.jpg)
+[Aperçu du profil lorsque l'on passe sur les liens](https://github.com/jlepan/social-links-profile/blob/main/design/active-states.jpg)
 
 ## Captures d'écran du projet
 
-![Aperçu de ma version desktop](https://github.com/jlepan/social-links-profil/blob/main/aper%C3%A7u-projet/aper%C3%A7u-desktop.png)
+![Aperçu de ma version desktop](https://github.com/jlepan/social-links-profile/blob/main/aper%C3%A7u-projet/aper%C3%A7u-desktop.png)
 
-![Aperçu de ma version mobile](https://github.com/jlepan/social-links-profil/blob/main/aper%C3%A7u-projet/aper%C3%A7u-mobile.png)
+![Aperçu de ma version mobile](https://github.com/jlepan/social-links-profile/blob/main/aper%C3%A7u-projet/aper%C3%A7u-mobile.png)
 
-![Aperçu de ma version lorsque l'on passe sur les liens](https://github.com/jlepan/social-links-profil/blob/main/aper%C3%A7u-projet/aper%C3%A7u-active-states.png)
+![Aperçu de ma version lorsque l'on passe sur les liens](https://github.com/jlepan/social-links-profile/blob/main/aper%C3%A7u-projet/aper%C3%A7u-active-states.png)
 
 ## Projet en ligne
 
-[Voir le projet en ligne](https://jlepan.github.io/social-links-profil/)
+[Voir le projet en ligne](https://jlepan.github.io/social-links-profile/)
 
 ## Installation
-1. Cloner ce repository :  
    ```bash
-   git clone https://github.com/jlepan/social-links-profil.git
-   
+   git clone https://github.com/jlepan/social-links-profile.git
+   ```
 2. Ouvrir le fichier index.html dans le navigateur pour voir la page.
 
 ## Auteur
