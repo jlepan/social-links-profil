@@ -1,0 +1,91 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 2 versions,> 1%,not dead
+*/
+
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url(fonts/Inter-VariableFont_slnt\,wght.ttf), format(truetype);
+}
+
+body {
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: hsl(0, 0%, 8%);
+    color: hsl(0, 0%, 100%);
+    display: flex;
+    align-items: center;
+    height: 97vh;
+}
+
+main {
+    background-color: hsl(0, 0%, 12%);
+    width: 90%;
+    margin: auto;
+    height: 80vh;
+    border-radius: 15px;
+    max-width: 360px;
+    max-height: 560px;
+}
+
+header {
+    text-align: center;
+}
+
+.img {
+    margin: auto;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+    margin-top: 20px
+}
+
+h1 {
+    font-size: 1.8em;
+    margin-bottom: 5px;
+}
+
+.green-color {
+    font-weight: 600;
+    color: hsl(75, 94%, 57%);
+    margin-top: 8px;
+    margin-bottom: 25px;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    margin-top: 20px;
+}
+
+.btn {
+    color: hsl(0, 0%, 100%);
+    text-decoration: none;
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    display: inline-block;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 8px;
+    margin: auto;
+    text-align: center;
+    padding: 14px;
+    width: 90%;
+
+}
+
+.btn:hover {
+    color: hsl(0, 0%, 8%);
+    font-weight: 600;
+    text-decoration: none;
+    background-color: hsl(75, 94%, 57%);
+    cursor: url(img/hand_cursor_pointer_refined.svg), pointer;
+}
