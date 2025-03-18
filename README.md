@@ -35,7 +35,9 @@ Il consiste à créer une page de profil où l'on partage nos liens sur les rés
    
 2. Ouvrir le fichier index.html dans le navigateur pour voir la page.
 
-
-## 👤 Auteur
+## Auteur
 - [Juliette Lepan](https://github.com/jlepan)  
 - [Mon profil Frontend Mentor](https://www.frontendmentor.io/profile/jlepan)
+
+## Crédits
+Design original par [Frontend Mentor](https://www.frontendmentor.io/)
