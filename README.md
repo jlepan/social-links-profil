@@ -1,4 +1,4 @@
-# social-links-profil
+# **social-links-profil**
 
 Ce projet est un exercice réalisé dans le cadre des défis de [Frontend Mentor](https://www.frontendmentor.io/). 
 Il consiste à créer une page de profil où l'on partage nos liens sur les réseaux sociaux en respectant une maquette donnée.
@@ -34,3 +34,8 @@ Il consiste à créer une page de profil où l'on partage nos liens sur les rés
    git clone https://github.com/jlepan/social-links-profil.git
    
 2. Ouvrir le fichier index.html dans le navigateur pour voir la page.
+
+
+## 👤 Auteur
+- [Juliette Lepan](https://github.com/jlepan)  
+- [Mon profil Frontend Mentor](https://www.frontendmentor.io/profile/jlepan)
