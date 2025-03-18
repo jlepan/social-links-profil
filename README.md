@@ -10,7 +10,7 @@ Il consiste à créer une page de profil où l'on partage nos liens sur les rés
 
 ## Modèles fournis
 
-[Aperçu du profil version desktop](https://github.com/jlepan/social-links-profil/blob/main/design/destkop-design.jpg)
+[Aperçu du profil version desktop](https://github.com/jlepan/social-links-profil/blob/main/design/desktop-design.jpg)
 
 [Aperçu du profil version mobile](https://github.com/jlepan/social-links-profil/blob/main/design/mobile-design.jpg)
 
